@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="291a59afe69e410fa0ebab5c144cd663" label="Category" name="x_605857_shoppin_0_category" type="collection">
-        <element default="true" label="Active" name="active" type="boolean"/>
-        <element display="true" label="Category" mandatory="true" max_length="100" name="name" type="string"/>
-        <element default="100" label="Sort order" name="sort_order" type="integer"/>
-        <element label="Description" max_length="200" name="description" type="string"/>
-    </element>
-</database>
