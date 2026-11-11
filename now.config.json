@@ -1,5 +1,10 @@
 {
     "scope": "x_605857_shoppin_0",
     "scopeId": "5e057b24c3a45710c871f61d0501315b",
-    "name": "Shopping List"
+    "name": "Shopping List",
+    "licensing": {
+        "enforceLicense": "none"
+    },
+    "description": "A simple shopping list application for tracking items to buy across multiple stores and organized by categories.",
+    "ideCreated": "SNS"
 }
