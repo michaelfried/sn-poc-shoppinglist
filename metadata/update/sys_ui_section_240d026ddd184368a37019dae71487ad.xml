@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Category" section_id="240d026ddd184368a37019dae71487ad" sys_domain="global" table="x_605857_shoppin_0_category" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:47</sys_created_on>
+            <sys_id>22a22fd19e34406893f8ffbbaff1f1ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Category" display_value="Category" name="x_605857_shoppin_0_category" sys_domain="global" view="Default view">240d026ddd184368a37019dae71487ad</sys_ui_section>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:47</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:47</sys_created_on>
+            <sys_id>a9bc73b9348b4be488fb397b0cfa95e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Category" display_value="Category" name="x_605857_shoppin_0_category" sys_domain="global" view="Default view">240d026ddd184368a37019dae71487ad</sys_ui_section>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>2</position>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:47</sys_created_on>
+            <sys_id>a1c214cb4024498dab7b1a014b9385da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Category" display_value="Category" name="x_605857_shoppin_0_category" sys_domain="global" view="Default view">240d026ddd184368a37019dae71487ad</sys_ui_section>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:47</sys_created_on>
+            <sys_id>be468c01a0974ecabdfb44727acb78db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Category" display_value="Category" name="x_605857_shoppin_0_category" sys_domain="global" view="Default view">240d026ddd184368a37019dae71487ad</sys_ui_section>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:47</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sort_order</element>
+            <position>4</position>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:47</sys_created_on>
+            <sys_id>9cf2814ec1604ea5a3e2afd3f1e1ea71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Category" display_value="Category" name="x_605857_shoppin_0_category" sys_domain="global" view="Default view">240d026ddd184368a37019dae71487ad</sys_ui_section>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>5</position>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:47</sys_created_on>
+            <sys_id>a3be2424e7014a29a77c0416414bcb48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Category" display_value="Category" name="x_605857_shoppin_0_category" sys_domain="global" view="Default view">240d026ddd184368a37019dae71487ad</sys_ui_section>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:47</sys_created_on>
+            <sys_id>0e558412963d437ba7121f56abd1f271</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Category" display_value="Category" name="x_605857_shoppin_0_category" sys_domain="global" view="Default view">240d026ddd184368a37019dae71487ad</sys_ui_section>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:47</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Category</caption>
+            <header>false</header>
+            <name>x_605857_shoppin_0_category</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>240d026ddd184368a37019dae71487ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_605857_shoppin_0_category</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Shopping List" source="x_605857_shoppin_0">5e057b24c3a45710c871f61d0501315b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">5e057b24c3a45710c871f61d0501315b</sys_scope>
+            <sys_update_name>sys_ui_section_240d026ddd184368a37019dae71487ad</sys_update_name>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:47</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

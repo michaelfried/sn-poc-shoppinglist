@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_605857_shoppin_0_store</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>matt</sys_created_by>
+        <sys_created_on>2026-11-11 13:05:45</sys_created_on>
+        <sys_id>ebc5ffa4c3a45710c871f61d05013136</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_605857_shoppin_0_store</sys_name>
+        <sys_package display_value="Shopping List" source="x_605857_shoppin_0">5e057b24c3a45710c871f61d0501315b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">5e057b24c3a45710c871f61d0501315b</sys_scope>
+        <sys_update_name>ua_table_licensing_config_ebc5ffa4c3a45710c871f61d05013136</sys_update_name>
+        <sys_updated_by>matt</sys_updated_by>
+        <sys_updated_on>2026-11-11 13:05:45</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="price" label="Estimated price" language="en" table="x_605857_shoppin_0_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>price</element>
+            <help/>
+            <hint/>
+            <label>Estimated price</label>
+            <language>en</language>
+            <name>x_605857_shoppin_0_item</name>
+            <plural>Estimated prices</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:38</sys_created_on>
+            <sys_id>e5e5ece7032048a49fd45a6c7ea90c38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Estimated price</sys_name>
+            <sys_package display_value="Shopping List" source="x_605857_shoppin_0">5e057b24c3a45710c871f61d0501315b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">5e057b24c3a45710c871f61d0501315b</sys_scope>
+            <sys_update_name>sys_documentation_x_605857_shoppin_0_item_price_en</sys_update_name>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

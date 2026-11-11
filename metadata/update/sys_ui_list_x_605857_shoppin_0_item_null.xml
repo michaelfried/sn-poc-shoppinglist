@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_605857_shoppin_0_item" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_605857_shoppin_0_item" element="NULL" name="x_605857_shoppin_0_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84cf171b12f14a54a57f98c8475424ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:46</sys_created_on>
+            <sys_id>74210efbe3d840feadace151a8ada37b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="x_605857_shoppin_0_item" element="NULL" name="x_605857_shoppin_0_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84cf171b12f14a54a57f98c8475424ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:46</sys_created_on>
+            <sys_id>64f96f49fc6c4fa98807235cbb5a1fb0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>store</element>
+            <list_id display_value="x_605857_shoppin_0_item" element="NULL" name="x_605857_shoppin_0_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84cf171b12f14a54a57f98c8475424ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:46</sys_created_on>
+            <sys_id>684575a3434d49ffa3a4d715f27d81e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>quantity</element>
+            <list_id display_value="x_605857_shoppin_0_item" element="NULL" name="x_605857_shoppin_0_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84cf171b12f14a54a57f98c8475424ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:46</sys_created_on>
+            <sys_id>85bc863511814bcba1deb57f05e796a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>unit</element>
+            <list_id display_value="x_605857_shoppin_0_item" element="NULL" name="x_605857_shoppin_0_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84cf171b12f14a54a57f98c8475424ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:46</sys_created_on>
+            <sys_id>16e0be4c91a94ff6b3052a9beff4b02b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>price</element>
+            <list_id display_value="x_605857_shoppin_0_item" element="NULL" name="x_605857_shoppin_0_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84cf171b12f14a54a57f98c8475424ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>true</sum>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:46</sys_created_on>
+            <sys_id>e272cbfbc94f40188b453475e256c433</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_605857_shoppin_0_item" element="NULL" name="x_605857_shoppin_0_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84cf171b12f14a54a57f98c8475424ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:46</sys_created_on>
+            <sys_id>ce90a3b136964b5f8adc2695898dc4d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchased</element>
+            <list_id display_value="x_605857_shoppin_0_item" element="NULL" name="x_605857_shoppin_0_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84cf171b12f14a54a57f98c8475424ce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:46</sys_created_on>
+            <sys_id>8d71c50cfcf84c968d4a16d0a9813f3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_605857_shoppin_0_item</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84cf171b12f14a54a57f98c8475424ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_605857_shoppin_0_item</sys_name>
+            <sys_package display_value="Shopping List" source="x_605857_shoppin_0">5e057b24c3a45710c871f61d0501315b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">5e057b24c3a45710c871f61d0501315b</sys_scope>
+            <sys_update_name>sys_ui_list_x_605857_shoppin_0_item_null</sys_update_name>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:46</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

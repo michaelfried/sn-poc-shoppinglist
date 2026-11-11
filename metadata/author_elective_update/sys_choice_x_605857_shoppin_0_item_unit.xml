@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="unit" table="x_605857_shoppin_0_item" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>unit</element>
+            <name>x_605857_shoppin_0_item</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:45</sys_created_on>
+            <sys_id>27afffd0b8714ad6bb26fa29965933fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>unit</sys_name>
+            <sys_package display_value="Shopping List" source="x_605857_shoppin_0">5e057b24c3a45710c871f61d0501315b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">5e057b24c3a45710c871f61d0501315b</sys_scope>
+            <sys_update_name>sys_choice_x_605857_shoppin_0_item_unit</sys_update_name>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:45</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Each</label>
+            <language>en</language>
+            <name>x_605857_shoppin_0_item</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46a973fd5f2f43bcaece3cc6d9dd1ec8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:45</sys_updated_on>
+            <value>each</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pack</label>
+            <language>en</language>
+            <name>x_605857_shoppin_0_item</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4b6b3d79c3e4e38922fd62ff6e58133</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:45</sys_updated_on>
+            <value>pack</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kilogram</label>
+            <language>en</language>
+            <name>x_605857_shoppin_0_item</name>
+            <sequence>300</sequence>
+            <synonyms/>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f459a58179394aac8e1af3df886035ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:45</sys_updated_on>
+            <value>kg</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gram</label>
+            <language>en</language>
+            <name>x_605857_shoppin_0_item</name>
+            <sequence>400</sequence>
+            <synonyms/>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9ff2c13c0c74d1283f01211110d90c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:45</sys_updated_on>
+            <value>g</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pound</label>
+            <language>en</language>
+            <name>x_605857_shoppin_0_item</name>
+            <sequence>500</sequence>
+            <synonyms/>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18875ff13f3a49369fbe9e44d1b361fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:45</sys_updated_on>
+            <value>lb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Liter</label>
+            <language>en</language>
+            <name>x_605857_shoppin_0_item</name>
+            <sequence>600</sequence>
+            <synonyms/>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>219d8a7334694ec297874fb7e85a9a74</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:45</sys_updated_on>
+            <value>l</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Milliliter</label>
+            <language>en</language>
+            <name>x_605857_shoppin_0_item</name>
+            <sequence>700</sequence>
+            <synonyms/>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>014f432284af415caa26d85621a90611</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:45</sys_updated_on>
+            <value>ml</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="purchased" label="Purchased" language="en" table="x_605857_shoppin_0_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>purchased</element>
+            <help/>
+            <hint/>
+            <label>Purchased</label>
+            <language>en</language>
+            <name>x_605857_shoppin_0_item</name>
+            <plural>Purchased</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:38</sys_created_on>
+            <sys_id>d5712e4ae83d4c1b8c7a7dd2556be48b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Purchased</sys_name>
+            <sys_package display_value="Shopping List" source="x_605857_shoppin_0">5e057b24c3a45710c871f61d0501315b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">5e057b24c3a45710c871f61d0501315b</sys_scope>
+            <sys_update_name>sys_documentation_x_605857_shoppin_0_item_purchased_en</sys_update_name>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

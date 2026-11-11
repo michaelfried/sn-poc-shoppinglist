@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="unit" label="Unit" language="en" table="x_605857_shoppin_0_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>unit</element>
+            <help/>
+            <hint/>
+            <label>Unit</label>
+            <language>en</language>
+            <name>x_605857_shoppin_0_item</name>
+            <plural>Units</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>matt</sys_created_by>
+            <sys_created_on>2026-11-11 13:05:39</sys_created_on>
+            <sys_id>ca9710408cc048fb95ec8fedfb56a5ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Unit</sys_name>
+            <sys_package display_value="Shopping List" source="x_605857_shoppin_0">5e057b24c3a45710c871f61d0501315b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">5e057b24c3a45710c871f61d0501315b</sys_scope>
+            <sys_update_name>sys_documentation_x_605857_shoppin_0_item_unit_en</sys_update_name>
+            <sys_updated_by>matt</sys_updated_by>
+            <sys_updated_on>2026-11-11 13:05:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

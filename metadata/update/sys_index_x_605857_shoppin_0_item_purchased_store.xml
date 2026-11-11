@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <access_method/>
+        <col_name_string>purchased,store</col_name_string>
+        <index_col_name>874f71e31bb9415482c363b890b6ebd7,335ad17fc8ca43119bb1ecb0a3bb94d5<sys_dictionary element="purchased" name="x_605857_shoppin_0_item">874f71e31bb9415482c363b890b6ebd7</sys_dictionary>
+            <sys_dictionary element="store" name="x_605857_shoppin_0_item">335ad17fc8ca43119bb1ecb0a3bb94d5</sys_dictionary>
+        </index_col_name>
+        <logical_table_name>x_605857_shoppin_0_item</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>matt</sys_created_by>
+        <sys_created_on>2026-11-11 13:05:45</sys_created_on>
+        <sys_id>94bcee56809b46258a03a5b892bb743b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_605857_shoppin_0_item</sys_name>
+        <sys_package display_value="Shopping List" source="x_605857_shoppin_0">5e057b24c3a45710c871f61d0501315b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">5e057b24c3a45710c871f61d0501315b</sys_scope>
+        <sys_update_name>sys_index_x_605857_shoppin_0_item_purchased_store</sys_update_name>
+        <sys_updated_by>matt</sys_updated_by>
+        <sys_updated_on>2026-11-11 13:05:45</sys_updated_on>
+        <table/>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

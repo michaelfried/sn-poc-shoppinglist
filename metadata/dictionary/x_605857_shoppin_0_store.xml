@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="afeca69d1f0642429a8c1464882ba84a" label="Store" name="x_605857_shoppin_0_store" type="collection">
+        <element display="true" label="Store" mandatory="true" max_length="100" name="name" type="string"/>
+        <element label="Location" max_length="200" name="location" type="string"/>
+        <element default="true" label="Active" name="active" type="boolean"/>
+        <element label="Notes" max_length="1000" name="notes" type="multi_two_lines"/>
+    </element>
+</database>
