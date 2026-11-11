@@ -5,9 +5,61 @@ declare global {
         namespace Internal {
             interface Keys extends KeysRegistry {
                 explicit: {
+                    '245da1c3e9644164b92a1b44d1c7e6c4': {
+                        table: 'sys_ui_related_list_entry'
+                        id: '245da1c3e9644164b92a1b44d1c7e6c4'
+                    }
+                    '4cbe625eb73c43f1ac4b01e5e5cedaff': {
+                        table: 'sys_app_module'
+                        id: '4cbe625eb73c43f1ac4b01e5e5cedaff'
+                    }
+                    '563dd2c4f29f458084a30b2f45188e28': {
+                        table: 'sys_app_module'
+                        id: '563dd2c4f29f458084a30b2f45188e28'
+                    }
+                    '598e5e1979fb4197b97abe17f6ca8f7d': {
+                        table: 'sys_app_module'
+                        id: '598e5e1979fb4197b97abe17f6ca8f7d'
+                    }
+                    '5eb11f9986574cce93be2c9253c6cef4': {
+                        table: 'sys_app_module'
+                        id: '5eb11f9986574cce93be2c9253c6cef4'
+                    }
+                    '74d573e4c3a45710c871f61d05013132': {
+                        table: 'sys_app_info'
+                        id: '74d573e4c3a45710c871f61d05013132'
+                    }
+                    '75cade3f08114f3c802604d23c159586': {
+                        table: 'sys_ui_related_list'
+                        id: '75cade3f08114f3c802604d23c159586'
+                    }
+                    '93e7cf40ff4e45908df9a7504066d5d8': {
+                        table: 'sys_app_module'
+                        id: '93e7cf40ff4e45908df9a7504066d5d8'
+                    }
+                    '9d7d7b8d7f444bcd903d5549ed0b9fbb': {
+                        table: 'sys_app_application'
+                        id: '9d7d7b8d7f444bcd903d5549ed0b9fbb'
+                    }
+                    a1e717adbc8f4d4b8e92423eba51a8d9: {
+                        table: 'sys_app_module'
+                        id: 'a1e717adbc8f4d4b8e92423eba51a8d9'
+                    }
+                    b622ea9a52a54fb382a3753561bfc82e: {
+                        table: 'sys_app_module'
+                        id: 'b622ea9a52a54fb382a3753561bfc82e'
+                    }
+                    bcc60cf89ac946ffa5a1263de089e5d5: {
+                        table: 'sys_ui_related_list'
+                        id: 'bcc60cf89ac946ffa5a1263de089e5d5'
+                    }
                     bom_json: {
                         table: 'sys_module'
                         id: '958d73f11d024f929bc08b78df48a294'
+                    }
+                    ece9c2b461b74e238c257541c9d60f1a: {
+                        table: 'sys_ui_related_list_entry'
+                        id: 'ece9c2b461b74e238c257541c9d60f1a'
                     }
                     package_json: {
                         table: 'sys_module'
